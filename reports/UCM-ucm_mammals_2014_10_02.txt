@@ -1,0 +1,141 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 420
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 6
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-05 ; Times: 3
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-17 ; Times: 27
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalia AND Colorado AND (NOT New York)" ; Times: 1
+	Query: "tachyglossus institutioncode:UCM" ; Times: 1
+	Query: "manis mammalia institutioncode:UCM" ; Times: 1
+	Query: "alaska class:Mammalia institutioncode:UCM" ; Times: 1
+	Query: "myrmecophaga institutioncode:UCM" ; Times: 1
+	Query: "condylura institutioncode:UCM" ; Times: 3
+	Query: "Cynocephalidae institutioncode:UCM" ; Times: 1
+	Query: "cingulata institutioncode:UCM" ; Times: 1
+	Query: "Bradypodidae institutioncode:UCM" ; Times: 2
+	Query: "cannomys institutioncode:UCM" ; Times: 1
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "4498 parvus" ; Times: 1
+	Query: "erinaceus institutioncode:UCM" ; Times: 1
+	Query: "neurotrichus institutioncode:UCM" ; Times: 1
+	Query: "scapanus institutioncode:UCM" ; Times: 1
+	Query: "myrmecophaga mammalia institutioncode:UCM" ; Times: 1
+	Query: "loxodonta skull" ; Times: 2
+	Query: "alaska institutioncode:UCM" ; Times: 1
+	Query: "ailurus institutioncode:UCM" ; Times: 3
+	Query: "Alouatta" ; Times: 3
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "manis institutioncode:UCM" ; Times: 1
+	Query: "lemur institutioncode:UCM" ; Times: 2
+	Query: "tarsius institutioncode:UCM" ; Times: 2
+	Query: "cynocephalus institutioncode:UCM" ; Times: 2
+	Query: "panthera onca" ; Times: 3
+	Query: "choloepus institutioncode:UCM" ; Times: 1
+	Query: "alouatta institutioncode:UCM" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 164 download events in this period)
+Total number of records downloaded: 15494 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5556
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-09 ; Times: 2
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-11 ; Times: 2
+	Date: 2014-09-12 ; Times: 3
+	Date: 2014-09-15 ; Times: 3
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 3
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 4
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "tachyglossidae; skull" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "NASUA" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Sorex" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "crotalus in mexico" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "type:specimen stateprovince:"California" specificepithet:macrotis genus:Neotoma" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "alouatta institutioncode:UCM" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 224
+Total number of records retrieved from searches: 1235
+Number of download events that retrieved data from the resource: 204
+Total number of records downloaded: 32278
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 224
+Total number of records retrieved from searches: 1235
+Number of download events that retrieved data from the resource: 204
+Total number of records downloaded: 32278
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
