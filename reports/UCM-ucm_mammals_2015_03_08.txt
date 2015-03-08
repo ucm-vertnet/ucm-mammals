@@ -1,0 +1,111 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 2
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "arctomys" ; Times: 2
+	Query: "Didelphis virginiana type:specimen (pouch)" ; Times: 1
+	Query: "blarina stateprovince:"kansas"" ; Times: 1
+	Query: "Colorado Weld Larimer mammal" ; Times: 1
+	Query: "Panthera onca country:"Mexico"" ; Times: 1
+	Query: "Colorado Neotoma mexicana Neotoma cinerea" ; Times: 1
+	Query: "myrmecophaga" ; Times: 2
+	Query: "Tamiascirus hudsonicus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:americanus genus:Lepus" ; Times: 2
+	Query: "felis onca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 326 download events in this period)
+Total number of records downloaded: 506 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 401
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 276
+Total number of records retrieved from searches: 1441
+Number of download events that retrieved data from the resource: 107
+Total number of records downloaded: 5369
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 308
+Total number of records retrieved from searches: 1904
+Number of download events that retrieved data from the resource: 385
+Total number of records downloaded: 51587
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
