@@ -1,0 +1,166 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 188
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: Micronesia ; Times: 1
+	Country: United States ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 6
+	Date: 2015-05-18 ; Times: 6
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 6
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-30 ; Times: 6
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocuta crocuta (zoo)" ; Times: 1
+	Query: "genus:Puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "specificepithet:hyaena genus:hyaena (zoo)" ; Times: 2
+	Query: "hyaena hyaena (skull zoo)" ; Times: 1
+	Query: "UCM snake" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"alberta" genus:microtus" ; Times: 4
+	Query: "tamias quadrivitatus" ; Times: 1
+	Query: "genus:puma (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "hyaena hyaena (zoo)" ; Times: 2
+	Query: "chiroptera Baja California isla" ; Times: 2
+	Query: "LASIURUS EGA country:"MEXICO"" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"Alberta" genus:Microtus" ; Times: 2
+	Query: "genus:Puma (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "genus:Puma (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "Neotoma albigula county:"San Diego"" ; Times: 1
+	Query: "hyaena crocuta (zoo)" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "chiroptera baja california isla" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 976 download events in this period)
+Total number of records downloaded: 19122 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 13983
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 6
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-21 ; Times: 16
+	Date: 2015-05-22 ; Times: 11
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "Erethizontidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:mammalia (isla OR island)" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "J. S. Rowley" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 4
+	Query: "Echimyidae" ; Times: 1
+	Query: "Alouatta seniculus venezuela" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "myotis stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 331
+Total number of records retrieved from searches: 1655
+Number of download events that retrieved data from the resource: 189
+Total number of records downloaded: 25164
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 363
+Total number of records retrieved from searches: 2118
+Number of download events that retrieved data from the resource: 467
+Total number of records downloaded: 71382
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
