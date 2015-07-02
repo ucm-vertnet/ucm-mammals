@@ -1,0 +1,165 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 229
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 54
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 7
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 10
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-23 ; Times: 2
+	Date: 2015-06-24 ; Times: 3
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 7
+	Date: 2015-06-29 ; Times: 6
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "UCM 1025" ; Times: 2
+	Query: "genus:puma (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "recordedby:ed. hill" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "lateralis teton" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: ""ursus arctos" stateprovince:"montana"" ; Times: 3
+	Query: "stateprovince:"Texas" specificepithet:putorius genus:Spilogale" ; Times: 2
+	Query: "12243 (skull)" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "marmota stateprovince:"Montana" year >= 1960 year <= 1970" ; Times: 1
+	Query: "panthera onca mexico" ; Times: 1
+	Query: "UCM 8625" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: ""mustela nigripes"" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:septentrionalis genus:myotis" ; Times: 1
+	Query: "cynomys ludovicianus arizonensis new mexico" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Ochotona stateprovince:"Montana" year >= 1930 year <= 1979" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:fuscus genus:eptesicus" ; Times: 1
+	Query: "486422" ; Times: 3
+	Query: "stateprovince:"oklahoma" specificepithet:grisescens genus:myotis" ; Times: 1
+	Query: "Ochotona princeps (Montana) year <= 1980" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "ursus stateprovince:"montana"" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "cu 2404" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:subflavus" ; Times: 1
+	Query: "Euderma maculatum country:"United States"" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1524 download events in this period)
+Total number of records downloaded: 2369 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2160
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 14
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:breviceps genus:Geomys" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "cynomys ludovicianus arizonensis new mexico" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Parastrellus hesperus country:"Mexico"" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 1
+	Query: "Euderma maculatum country:"United States"" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Parastrellus hesperus country:"United States"" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 388
+Total number of records retrieved from searches: 1884
+Number of download events that retrieved data from the resource: 227
+Total number of records downloaded: 27533
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 420
+Total number of records retrieved from searches: 2347
+Number of download events that retrieved data from the resource: 505
+Total number of records downloaded: 73751
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
