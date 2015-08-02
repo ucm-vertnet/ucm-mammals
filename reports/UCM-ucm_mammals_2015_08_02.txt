@@ -1,0 +1,216 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1498
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Hungary ; Times: 15
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 80
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-04 ; Times: 10
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 14
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 16
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 22
+	Date: 2015-07-21 ; Times: 7
+	Date: 2015-07-22 ; Times: 5
+	Date: 2015-07-27 ; Times: 5
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Procyon Wyoming" ; Times: 1
+	Query: "class:mammalia institutioncode:ucm" ; Times: 8
+	Query: "Hinsdale Colorado" ; Times: 1
+	Query: ""Equus grevyi"" ; Times: 1
+	Query: "myotis lucifigus" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:megalotis genus:Reithrodontomys" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" genus:Neotoma" ; Times: 2
+	Query: "microtus californicus country:"mexico"" ; Times: 1
+	Query: "specificepithet:clusius genus:Thomomys" ; Times: 7
+	Query: "Cratogeomys weight" ; Times: 1
+	Query: "camp pina country:"panama"" ; Times: 2
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:crinitus genus:Peromyscus" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:flavescens genus:Perognathus" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" genus:Neotoma institutioncode:UCM" ; Times: 1
+	Query: "odocoileus (weight)" ; Times: 2
+	Query: "14470" ; Times: 1
+	Query: "genus:Ctenodactylus" ; Times: 2
+	Query: ""Perognathus flavus" stateprovince:"Utah"" ; Times: 1
+	Query: "neotoma mexicana utah" ; Times: 3
+	Query: "bursarius weight" ; Times: 2
+	Query: "concolor arizona" ; Times: 1
+	Query: "perognathus flavescens utah" ; Times: 3
+	Query: "Lepus townsendii (Weight)" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "Geomys attwateri" ; Times: 4
+	Query: "country:"Mexico" specificepithet:californicus genus:Microtus" ; Times: 2
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "Pteronotus suapurensis" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:mexicana genus:Neotoma" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "specificepithet:cunicularius genus:Sylvilagus" ; Times: 2
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:stephensi genus:Neotoma" ; Times: 1
+	Query: "Microtus californicus Mexico" ; Times: 4
+	Query: ""neotoma stephensi" stateprovince:"Utah"" ; Times: 1
+	Query: "stateprovince:"Utah" specificepithet:flavus genus:Perognathus" ; Times: 1
+	Query: "Routt Colorado Zapus" ; Times: 1
+	Query: "perognathus apache utah" ; Times: 1
+	Query: "neotoma albigula utah" ; Times: 4
+	Query: "perognathus flavus utah" ; Times: 1
+	Query: "mammalia stateprovince:"utah" institutioncode:UCM" ; Times: 1
+	Query: "fossor weight" ; Times: 11
+	Query: "Crotalus Willardi" ; Times: 1
+	Query: "microtus californicus mexico" ; Times: 7
+	Query: "bursarius lutescens weight" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1084 download events in this period)
+Total number of records downloaded: 5964 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3612
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 27
+	Country: Panama ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 14
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 7
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Procyon Wyoming" ; Times: 1
+	Query: "choloepus hoffmanni country:"Panama"" ; Times: 1
+	Query: ""balantiopteryx plicata" country:"Mexico"" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "tamias minimus" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Praomys daltoni" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "mammals chihuahua" ; Times: 1
+	Query: "phoca vitulina richardii" ; Times: 1
+	Query: ""Pteronotus parnellii" country:"mexico"" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: ""sturnira lilium" country:"mexico"" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "mammalia stateprovince:"utah" institutioncode:UCM" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: ""myotis nigricans" country:"Mexico"" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Zygodontomys brevicauda country:"Panama"" ; Times: 1
+	Query: ""mormoops megalophylla" country:"Mexico"" ; Times: 1
+	Query: ""parastrellus hesperus" country:"Mexico"" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: ""natalus stramineus" country:"Mexico"" ; Times: 1
+	Query: "elephantulus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: ""myotis velifer" country:"Mexico"" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: ""Leptonycteris nivalis" country:"Mexico"" ; Times: 1
+	Query: ""rhogeessa parvula" country:"Mexico"" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: ""artibeus jamaicensis" country:"Mexico"" ; Times: 1
+	Query: ""lasiurus borealis" country:"Mexico"" ; Times: 1
+	Query: "Neotoma leucodon" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: ""tadarida brasiliensis" country:"Mexico"" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: ""Nyctinomops femorosaccus" country:"mexico"" ; Times: 1
+	Query: ""lasiurus ega" country:"Mexico"" ; Times: 1
+	Query: "mammalia san juan county utah" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Panama"" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 488
+Total number of records retrieved from searches: 3382
+Number of download events that retrieved data from the resource: 296
+Total number of records downloaded: 33497
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 520
+Total number of records retrieved from searches: 3845
+Number of download events that retrieved data from the resource: 574
+Total number of records downloaded: 79715
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
