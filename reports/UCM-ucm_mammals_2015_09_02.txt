@@ -1,0 +1,187 @@
+Report for Institution Code UCM, Resource Mammal specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 205
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 3
+	Country: Hungary ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 3
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 7
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor arizona" ; Times: 1
+	Query: "microtus montanus san juan county" ; Times: 1
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "country:"mexico" specificepithet:californicus genus:Microtus" ; Times: 2
+	Query: "willardi" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "geomys type:specimen (weight)" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "genus: mustela specificepithet: nigripes" ; Times: 3
+	Query: "7754" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Porter type:specimen county:"Brewster" stateprovince:"Texas" year >= 1957 year <= 1959" ; Times: 1
+	Query: "type:specimen county:"Brewster" stateprovince:"Texas" class:Mammalia year >= 1957 year <= 1959" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "Porter type:specimen county:"Brewster" stateprovince:"Texas"" ; Times: 1
+	Query: "Porter type:specimen stateprovince:"Texas" class:Mammalia" ; Times: 1
+	Query: "genus:Chinchilla" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year>=1900" ; Times: 1
+	Query: "microtus californicus microtus californicus country:"Mexico"" ; Times: 4
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "neotoma clark county nevada" ; Times: 1
+	Query: "sigmodon pima county" ; Times: 1
+	Query: "ursus americanus colorado" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "vulpes macrotis arizona" ; Times: 1
+	Query: "erethizon dorsatum colorado" ; Times: 1
+	Query: "specificepithet:jugossicularis genus:geomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1138 download events in this period)
+Total number of records downloaded: 2542 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1988
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 47
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 9
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 5
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 31
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "didelphis" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 3
+	Query: "venezuela" ; Times: 2
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "Sorex jacksoni" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus californicus microtus californicus country:"Mexico"" ; Times: 5
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "marmota flaviventris wyoming" ; Times: 3
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "perognathus flavescens" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Dicrostonyx hudsonius" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "perognathus parvus" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:breviceps genus:geomys" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 45
+Total number of records retrieved from searches: 205
+Number of download events that retrieved data from the resource: 76
+Total number of records downloaded: 2542
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 45
+Total number of records retrieved from searches: 205
+Number of download events that retrieved data from the resource: 76
+Total number of records downloaded: 2542
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
