@@ -1,0 +1,231 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 436
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 15
+	Country: United States ; Times: 83
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-14 ; Times: 7
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 6
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-29 ; Times: 6
+	Date: 2015-09-05 ; Times: 27
+	Date: 2015-09-04 ; Times: 3
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-01 ; Times: 12
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-26 ; Times: 4
+	Date: 2015-09-21 ; Times: 4
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 6
+	Date: 2015-09-08 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma albigula venusta" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 3
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Natalus mexicanus" ; Times: 3
+	Query: "neotoma albigula venusta" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "thibault mammalia" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "Neotamias dorsalis" ; Times: 1
+	Query: "county:&#34;natrona&#34; stateprovince:&#34;Wyoming&#34; genus:zapus" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Myotis lucifugus (Montana)" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale" ; Times: 4
+	Query: "Myotis leibii" ; Times: 3
+	Query: "Microtus Microtus californicus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.149505705))&lt;10000" ; Times: 1
+	Query: "Eptesicus fuscus oklahoma" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Crotalus willardi willardi 1" ; Times: 2
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "specificepithet:californicus genus:microtus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "stateprovince:&#34;Oklahoma&#34; specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "&#34;lynx canadensis&#34; genus:lynx (weight)" ; Times: 1
+	Query: "crocuta" ; Times: 2
+	Query: "Lasiurus xanthinus" ; Times: 3
+	Query: "Idionycteris phyllotis" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 7
+	Query: "Dermoptera" ; Times: 3
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "Pinus contorta" ; Times: 18
+	Query: "Spermophilus tereticaudus chlorus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Myotis keenii" ; Times: 3
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "county:&#34;eddy&#34; stateprovince:&#34;north dakota&#34; AND (NOT UMMZ)" ; Times: 1
+	Query: "Myotis lucifigus" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "Perimyotis subflavus" ; Times: 3
+	Query: "crotalus willardi" ; Times: 1
+	Query: "cebuella pygmaea" ; Times: 2
+	Query: "euderma maculatum" ; Times: 1
+	Query: "Eumops perotis" ; Times: 3
+	Query: "crocuta crocuta" ; Times: 2
+	Query: "Corynorhinus rafinesquii" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 157 (out of 1045 download events in this period)
+Total number of records downloaded: 27315
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 3
+	Country: United States ; Times: 118
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-10 ; Times: 36
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 21
+	Date: 2015-09-16 ; Times: 32
+	Date: 2015-09-17 ; Times: 8
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 7
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-29 ; Times: 9
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "callosciurus finlaysonii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys" ; Times: 1
+	Query: "saguinus geoffroyi" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Bison bison" ; Times: 2
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "dipodomys (chihuahua)" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "dipodomys (coahuila)" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Tamias striatus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "dipodomys (durango)" ; Times: 3
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "cebuella pygmaea" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+
+
+End of report.
