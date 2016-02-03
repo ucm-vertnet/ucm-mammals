@@ -1,0 +1,156 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 143
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 25
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-24 ; Times: 3
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:onca genus:panthera family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin) year &gt;= 1940 year &lt;= 1950" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Perognathus parvus xanthonotus" ; Times: 1
+	Query: "urocitellus undulatus" ; Times: 1
+	Query: "Odocoileus virginianus and colorado" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "enhydra institutioncode:UCM" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "deer antler" ; Times: 4
+	Query: "felidae genus:Panthera family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Georgia&#34; (skin)" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "Pinus contorta" ; Times: 14
+	Query: "procyon lotor stateprovince:&#34;Colorado&#34; (skin)" ; Times: 1
+	Query: "Odocoileus virginianus and arkansas" ; Times: 1
+	Query: "Odocoileus virginianus and south dakota" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 823 download events in this period)
+Total number of records downloaded: 5394
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 48
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 10
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-30 ; Times: 12
+	Date: 2015-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:onca genus:panthera family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "deer antler" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "ovis aries" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Panthera leo" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
