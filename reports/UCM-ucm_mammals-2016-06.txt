@@ -1,0 +1,202 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 183
+Number of records retrieved in searches: 920
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 134
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 6
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-21 ; Times: 21
+	Date: 2016-06-20 ; Times: 26
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-04 ; Times: 4
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 18
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-22 ; Times: 6
+	Date: 2016-06-18 ; Times: 17
+	Date: 2016-06-19 ; Times: 6
+	Date: 2016-06-16 ; Times: 15
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 7
+	Date: 2016-06-15 ; Times: 10
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "UCM AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "bison bison   " ; Times: 6
+	Query: "herpailurus" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 2
+	Query: "UCM AND Santa Cruz Island" ; Times: 1
+	Query: "peromyscus leucopus county:&#34;bastrop&#34;" ; Times: 2
+	Query: "11139" ; Times: 3
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "genus:Perimyotis specificepithet:subflavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Ovis aries lamb" ; Times: 1
+	Query: "Atelerix algirus 1" ; Times: 2
+	Query: "sylvilagus floridanus year &lt;= 1900" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "14352" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Beaty specimens" ; Times: 5
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "genus:Tamias stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "&#34;Mustela frenata&#34; type:specimen stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "euderma utah" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34; AND (NOT KU)" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 6
+	Query: "Neovison vison 1" ; Times: 2
+	Query: "genus:bison" ; Times: 2
+	Query: "8442 mammalia" ; Times: 1
+	Query: "Herpestes ichneumon 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Pinus contorta" ; Times: 89
+	Query: "canis lupus   " ; Times: 2
+	Query: "euderma" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "s venaticus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "stateprovince:&#34;colorado&#34; specificepithet:aberti genus:Sciurus year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "Rattus norvegicus 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 134 (out of 1052 download events in this period)
+Total number of records downloaded: 11690
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 79
+	Country: Mexico ; Times: 48
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 8
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 12
+	Date: 2016-06-14 ; Times: 14
+	Date: 2016-06-15 ; Times: 13
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 19
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Equus grevyi" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus townsendii" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "deserticola specificepithet:californicus genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "varecia" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "stateprovince:&#34;colorado&#34; specificepithet:aberti genus:Sciurus year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "genus:Perimyotis specificepithet:subflavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
