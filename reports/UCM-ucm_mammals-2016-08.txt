@@ -1,0 +1,163 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 282
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 4
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-17 ; Times: 4
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ovis zoo" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;maine&#34; institutioncode:UCM" ; Times: 1
+	Query: "Myotis septentrionalis (Wisconsin)" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Marmota monax stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Pinus contorta" ; Times: 47
+	Query: "rattus rattus massachusetts" ; Times: 1
+	Query: "urocitellus undulatus" ; Times: 5
+	Query: "&#34;rattus rattus&#34; massachusetts" ; Times: 2
+	Query: "ovis canadensis zoo" ; Times: 1
+	Query: "sylvilagus transitionalis massachusetts" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;maine&#34; institutioncode:UCM" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 924 download events in this period)
+Total number of records downloaded: 12159
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 14
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 59
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 7
+	Date: 2016-08-16 ; Times: 16
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-31 ; Times: 9
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 12
+	Date: 2016-08-24 ; Times: 6
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Granite Pass" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
