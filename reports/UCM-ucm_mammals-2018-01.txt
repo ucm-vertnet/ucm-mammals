@@ -1,0 +1,231 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 207
+Number of records retrieved in searches: 718
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: Denmark ; Times: 60
+	Country: United States ; Times: 117
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 6
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-10 ; Times: 7
+	Date: 2018-01-13 ; Times: 6
+	Date: 2018-01-12 ; Times: 9
+	Date: 2018-01-15 ; Times: 32
+	Date: 2018-01-14 ; Times: 20
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-16 ; Times: 21
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-08 ; Times: 4
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 5
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 9
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 6
+	Date: 2018-01-27 ; Times: 3
+	Date: 2018-01-06 ; Times: 3
+	Date: 2018-01-21 ; Times: 9
+	Date: 2018-01-22 ; Times: 10
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-23 ; Times: 9
+	Date: 2018-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "YUCATAN CARNIVORA" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Mathews 1964" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "genus:geomys locality:padre island stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:bison genus:bison preparations:skin" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "specificepithet:longicaudus genus:microtus county:&#34;graham&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 4
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "&#34;Panthera&#34; &#34;tigris&#34; mappable:1" ; Times: 1
+	Query: "genus:zygodontomys institutioncode:UCM" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "beluga whale" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "20821" ; Times: 1
+	Query: "bison skin" ; Times: 3
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+	Query: "gazella dorcas" ; Times: 1
+	Query: "&#34;panthera leo&#34; mappable:1" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera Leo mappable:1" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "21220" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Equus caballus" ; Times: 3
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "JGO" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "bison skin tanned" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida continent:Central America" ; Times: 1
+	Query: "&#34;Panthera leo&#34; mappable:1" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 4
+	Query: "Cervus elaphus canadensis" ; Times: 4
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "genus:Macaca order:Primates institutioncode:UCM" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "&#34;Panthera Tigris&#34; mappable:1" ; Times: 4
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "Mammal specimens 20978 mappable:1" ; Times: 1
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 4
+	Query: "Pinus contorta" ; Times: 59
+	Query: "panthera tigris" ; Times: 4
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:UCM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Panthera tigris" ; Times: 3
+	Query: "510479" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "&#34;PANTHERA tigriS&#34; mappable:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "18139" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1398 download events in this period)
+Total number of records downloaded: 3961
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 18
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 52
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 10
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 18
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-30 ; Times: 7
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-23 ; Times: 8
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Callosciurus finlaysonii" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "order:Rodentia county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:MAMMALIA locality:San Luis Potosi" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "class:Mammalia hasmass:1 mappable:1 hasmedia:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+
+
+End of report.
