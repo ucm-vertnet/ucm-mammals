@@ -1,0 +1,133 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 547
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Tunisia ; Times: 4
+	Country: Finland ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 106
+	Country: China ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-29 ; Times: 7
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 10
+	Date: 2018-05-24 ; Times: 7
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-06 ; Times: 6
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 10
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1960 year &lt;= 1969 institutioncode:UCM" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "prince edward island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:UCM" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1950 year &lt;= 1959 institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:8768 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:UCM" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 4
+	Query: "Microtus ochrogaster year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "catalognumber:8769 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909 institutioncode:UCM" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "catalognumber:8770 institutioncode:UCM" ; Times: 1
+	Query: "Marmosa zeledoni" ; Times: 1
+	Query: "Pinus contorta" ; Times: 85
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:Rhogeessa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1178 download events in this period)
+Total number of records downloaded: 444
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Tunisia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "amatlan" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
