@@ -1,0 +1,204 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 188
+Number of records retrieved in searches: 1031
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 165
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: China ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-28 ; Times: 5
+	Date: 2018-04-23 ; Times: 26
+	Date: 2018-04-22 ; Times: 10
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 19
+	Date: 2018-04-01 ; Times: 9
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 10
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-07 ; Times: 3
+	Date: 2018-04-06 ; Times: 5
+	Date: 2018-04-09 ; Times: 8
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-16 ; Times: 8
+	Date: 2018-04-12 ; Times: 11
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-30 ; Times: 5
+	Date: 2018-04-17 ; Times: 14
+	Date: 2018-04-14 ; Times: 2
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "genus:Notiosorex specificepithet:crawfordi mappable:1 hasmass:1" ; Times: 1
+	Query: "2065 Dipodomys" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "Neotoma fuscipes county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida continent:Central America" ; Times: 1
+	Query: "genus:Panthera " ; Times: 1
+	Query: "genus:Sorex specificepithet:palustris mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1" ; Times: 2
+	Query: "genus:Perimyotis month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "maxwell colorado" ; Times: 7
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Texas&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 6
+	Query: "genus:Sorex specificepithet:merriami mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 3
+	Query: "2486 Dipodomys" ; Times: 1
+	Query: "genus:Sorex specificepithet:nanus mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1 hasmass:1" ; Times: 2
+	Query: "UCM 8660" ; Times: 2
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "genus:Perognathus specificepithet:flavus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:rufus mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 1
+	Query: "UCM 8666" ; Times: 1
+	Query: "UCM 8665" ; Times: 2
+	Query: "genus:Aplodontia specificepithet:rufa mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "genus:Microtus specificepithet:mogollonensis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dicrostonyx specificepithet:hudsonius mappable:1" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "genus:Sorex specificepithet:merriami mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:nanus mappable:1 hasmass:1" ; Times: 2
+	Query: "bobcat mappable:1" ; Times: 2
+	Query: "Myotis keeni" ; Times: 3
+	Query: "specificepithet:subflavus genus:perimyotis stateprovince:&#34;Texas&#34; continent:North America" ; Times: 1
+	Query: "genus:Neotoma specificepithet:mexicana mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Procyon specificepithet:lotor mappable:1 hasmass:1" ; Times: 3
+	Query: "genus:Sciurus specificepithet:niger mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:nasutus mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Anfibios en mexico" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "genus:Vulpes specificepithet:vulpes mappable:1 hasmass:1" ; Times: 2
+	Query: "Lontra canadensis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:floridanus mappable:1 hasmass:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "Pinus contorta" ; Times: 70
+	Query: "genus:Phenacomys specificepithet:intermedius mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:quadrivittatus mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "Carollia subrufa hasmass:1" ; Times: 1
+	Query: "Callosciurus finlaysonii " ; Times: 5
+	Query: "panthera tigris" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34; recordedby:Maxwell" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:umbrinus mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:20447 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:UCM mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;costa rica&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1359 download events in this period)
+Total number of records downloaded: 826
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 6
+	Country: Poland ; Times: 4
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 7
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Callosciurus finlaysonii" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Perimyotis month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Texas&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;costa rica&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heteromyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Lontra canadensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34; recordedby:Maxwell" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+
+
+End of report.
