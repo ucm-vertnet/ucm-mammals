@@ -1,0 +1,155 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 1126
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 146
+	Country: Denmark ; Times: 5
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 21
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 3
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-12 ; Times: 3
+	Date: 2018-08-13 ; Times: 5
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-11 ; Times: 4
+	Date: 2018-08-02 ; Times: 6
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 3
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-22 ; Times: 5
+	Date: 2018-08-21 ; Times: 10
+	Date: 2018-08-20 ; Times: 15
+	Date: 2018-08-05 ; Times: 6
+	Date: 2018-08-04 ; Times: 4
+	Date: 2018-08-07 ; Times: 19
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 7
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:16991 institutioncode:UCM" ; Times: 2
+	Query: "catalognumber:19757 institutioncode:UCM" ; Times: 2
+	Query: "3449 Puma" ; Times: 2
+	Query: "crotalus willardi amabilis" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 4
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "catalognumber:16992 institutioncode:UCM" ; Times: 2
+	Query: "catalognumber:19882 institutioncode:UCM" ; Times: 2
+	Query: "catalognumber:3506 institutioncode:UCM" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon institutioncode:UCM" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "catalognumber:10467 institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:11856 institutioncode:UCM" ; Times: 2
+	Query: "catalognumber:3508 institutioncode:UCM" ; Times: 4
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Acm" ; Times: 10
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UCM" ; Times: 2
+	Query: "3445 Puma" ; Times: 3
+	Query: "Pinus contorta" ; Times: 94
+	Query: "genus:Vulpes institutioncode:UCM" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "os 350" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "catalognumber:19759 institutioncode:UCM" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "3332 Puma" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1416 download events in this period)
+Total number of records downloaded: 924
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "Peromyscus polionotus niveiventris" ; Times: 2
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Mus musculus domesticus vntype:specimen genus:Mus" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "mammals of india" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+
+
+End of report.
