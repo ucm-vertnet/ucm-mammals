@@ -1,0 +1,202 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 545
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 76
+	Country: Israel ; Times: 2
+	Country: India ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Sweden ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 7
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 7
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-14 ; Times: 6
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-05 ; Times: 22
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-04 ; Times: 7
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Cameron" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "specificepithet:pardalis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:19757 institutioncode:UCM" ; Times: 2
+	Query: "Procyon lotor hastissue:1" ; Times: 4
+	Query: "panthera  tigris" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:UCM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "felis onca" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:gundi genus:Ctenodactylus" ; Times: 2
+	Query: "recordedby:Balliet" ; Times: 1
+	Query: "Vulpes vulpes Denver" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;Russia&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes family:Canidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "catalognumber:7624 institutioncode:UCM" ; Times: 3
+	Query: "canis lupus youngi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen skull" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes family:Canidae county:&#34;mesa&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 2
+	Query: "fulva vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:3483 institutioncode:UCM" ; Times: 2
+	Query: "catalognumber:7623 institutioncode:UCM" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus locality:Pleasanton stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Canidae AND (NOT latrans) institutioncode:UCM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae county:&#34;lincoln&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus county:&#34;larimer&#34; stateprovince:&#34;colorado&#34; institutioncode:UCM" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 7
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;colorado&#34; institutioncode:UCM" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1800 year &lt;= 1900" ; Times: 2
+	Query: "specificepithet:yagouaroundi stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:lepus locality:fort morgan" ; Times: 1
+	Query: "catalognumber:3494 institutioncode:UCM" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:3493 institutioncode:UCM" ; Times: 2
+	Query: "specificepithet:concolor genus:puma year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:11592 institutioncode:UCM" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex hasmass:1" ; Times: 1
+	Query: "mountain lion" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 809 download events in this period)
+Total number of records downloaded: 3127
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 38
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-09 ; Times: 19
+	Date: 2018-12-10 ; Times: 17
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-18 ; Times: 8
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 8
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pardalis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chaetodipus eremicus" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "peropteryx macrotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Vulpes vulpes Denver" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "natalus mexicanus" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "anthony country:&#34;Mexico&#34; year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "rhynchonycteris naso" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+
+
+End of report.
