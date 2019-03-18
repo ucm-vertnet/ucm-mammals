@@ -1,0 +1,139 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 1414
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 82
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-13 ; Times: 38
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 3
+	Date: 2019-02-20 ; Times: 6
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis ciliolabrum stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 28
+	Query: "Tamias quadrimaculatus" ; Times: 2
+	Query: "specificepithet:niger genus:Sciurus stateprovince:&#34;Colorado&#34; year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:8225 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "&#34;Ursus americanus&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 2012 year &lt;= 2019 hassex:1 hasmedia:1 hastissue:1" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:11627 institutioncode:UCM" ; Times: 1
+	Query: "genus:Euderma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:19425 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota institutioncode:UCM" ; Times: 1
+	Query: "skull genus:Otocyon family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:11628 institutioncode:UCM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Geomys county:&#34;Mason&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Otis hastissue:1" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:4829 institutioncode:UCM" ; Times: 1
+	Query: "25 june 1886" ; Times: 1
+	Query: "otis hastissue:1" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias institutioncode:UCM" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "panthera tigris." ; Times: 2
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 16
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:11629 institutioncode:UCM" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "mountain lion" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1227 download events in this period)
+Total number of records downloaded: 398
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-14 ; Times: 7
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 7
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "lycaon pictus" ; Times: 1
+	Query: "genus:Geomys county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "genus:Geomys county:&#34;Mason&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Cynomops" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "Dermoptera" ; Times: 3
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "micoureus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UCM" ; Times: 1
+
+
+End of report.
