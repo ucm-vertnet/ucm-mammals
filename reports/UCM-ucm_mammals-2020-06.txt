@@ -1,0 +1,97 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 423
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 36
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-08 ; Times: 14
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-28 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-11 ; Times: 16
+	Date: 2020-06-10 ; Times: 23
+	Date: 2020-06-03 ; Times: 9
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "bobcat" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas year&gt;=1900" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:18902 institutioncode:UCM" ; Times: 2
+	Query: "icr" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "RT 318" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "Rusa unicolor" ; Times: 6
+	Query: "TJH" ; Times: 2
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "mountain lion" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "class:mammalia (10058)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 474 download events in this period)
+Total number of records downloaded: 617
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "muskrat" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
