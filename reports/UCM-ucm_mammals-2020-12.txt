@@ -1,0 +1,175 @@
+Report for Institution Code UCM, Resource ucm_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 807
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Kenya ; Times: 3
+	Country: Mozambique ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 4
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 21
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-06 ; Times: 3
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 24
+	Date: 2020-12-01 ; Times: 7
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-28 ; Times: 4
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-14 ; Times: 19
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 5
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UCM" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "genus:reithrodontomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCM" ; Times: 1
+	Query: "mappable:1 scientificname:Panthera leo" ; Times: 1
+	Query: "Nasua nasua in Arizona" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Funisciurus anerythrus" ; Times: 5
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "genus:Delphinapterus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 16
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "Petaurista alborufus" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UCM" ; Times: 1
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "G. M. Sutton" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "scientificname:Canis latrans stateprovince:new york" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "hasmass:1 capra" ; Times: 2
+	Query: "24209" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus hasmass:1" ; Times: 1
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 4
+	Query: "Phacochoerus" ; Times: 3
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "4784 genus:Geomys" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "Marmosa zeledoni" ; Times: 1
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "panthera leo leo" ; Times: 3
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lynx rufus stateprovince:new york" ; Times: 2
+	Query: "11296" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 705 download events in this period)
+Total number of records downloaded: 5716
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 2
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 9
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 8
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UCM" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UCM" ; Times: 1
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+
+
+End of report.
